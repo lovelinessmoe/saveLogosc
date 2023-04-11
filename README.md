@@ -18,3 +18,6 @@
 
 也懒得美化透明那个checkbox了
 
+根据issues的要求新添加第二个脚本，但是只能下载png
+logoVi作为保存logovi的设计图
+
